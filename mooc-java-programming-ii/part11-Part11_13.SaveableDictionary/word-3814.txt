@@ -1,0 +1,3 @@
+tietokone=computer:null
+apina=monkey:null
+olut=beer:null

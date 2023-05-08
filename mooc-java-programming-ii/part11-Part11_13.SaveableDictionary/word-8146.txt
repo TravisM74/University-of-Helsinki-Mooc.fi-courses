@@ -1,0 +1,1 @@
+tietokone=computer:nullapina=monkey:nullolut=beer:null
